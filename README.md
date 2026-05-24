@@ -8,7 +8,16 @@ The projects demonstrate financial analysis, benchmarking, target costing, share
 
 ```text
 bishakha-finance-analytics/
+│
+├── 01-financial-analysis/
 │   ├── 01-financial-ratio-benchmarking/
 │   ├── 02-target-costing-analysis/
 │   ├── 03-shareholder-value-analysis/
 │   └── 04-portfolio-management-trading-report/
+│
+├── 02-sql-projects/
+│   ├── 01-music-store-sql-analysis/
+│   ├── 02-online-retail-revenue-analysis/
+│   └── 03-business-metric-diagnostics/
+│
+└── 03-data-visualization/
