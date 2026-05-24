@@ -1,2 +1,4 @@
-# bishakha-finance-analytics
-Financial analysis, SQL analytics, and data science projects
+# Finance Analytics Portfolio
+This repository contains my finance analytics, corporate finance, SQL, and data analysis projects completed as part of my MBA & Engineering studies and personal analytics portfolio.
+
+The projects demonstrate financial analysis, benchmarking, target costing, shareholder value analysis, portfolio monitoring, SQL-based business analysis, Excel modelling, and data-driven decision-making.
