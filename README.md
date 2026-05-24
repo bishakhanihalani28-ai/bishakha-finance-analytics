@@ -11,9 +11,8 @@ bishakha-finance-analytics/
 │
 ├── 01-financial-analysis/
 │   ├── 01-financial-ratio-benchmarking/
-│   ├── 02-target-costing-analysis/
-│   ├── 03-shareholder-value-analysis/
-│   └── 04-portfolio-management-trading-report/
+│   ├── 02-shareholder-value-analysis/
+│   └── 03-portfolio-management-trading-report/
 ├── 02-sql-projects/
 │   ├── 01-music-store-sql-analysis/
 
